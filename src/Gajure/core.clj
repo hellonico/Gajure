@@ -1,5 +1,4 @@
-(ns gajure.core
-  (:use [clojure.contrib.seq-utils]))
+(ns gajure.core)
 
 (comment
   "This is a framework for creating genetic algorithms in clojure"
